@@ -44,7 +44,7 @@ class _SplashScreenState extends State<SplashScreen> {
             Text("Version 0.1")
           ],
         ),
-      )
+      ),
     ]);
   }
 }
